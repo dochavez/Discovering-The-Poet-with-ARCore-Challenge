@@ -154,7 +154,7 @@ Visit the Ruben Dario house museum to create an Augmented Reality prototype with
 
 
 ##The Complete Script used for this project
-
+```
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -235,3 +235,4 @@ public class VPSManager : MonoBehaviour
 
 
 }
+```
